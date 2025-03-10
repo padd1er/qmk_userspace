@@ -1,3 +1,4 @@
+#define ACTION_DEBUG
 #define TAPPING_TERM 225
 #define PERMISSIVE_HOLD
 
